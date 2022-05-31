@@ -1,7 +1,7 @@
 <!-- JayBanner -->
 
 <p align="center">
-  <img src="logo.png">
+  <img src="logo1.png">
 </p>
 
 <p align="center">Jaybanner</p>
