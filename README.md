@@ -39,4 +39,3 @@ $ python3 jaybanner.py
   
 </p>
 <meta name="google-site-verification" content="mZnI6ZS61dr0tBYRfTtvqUDssroxJIyf7wvWC9WwsXc" />
-
