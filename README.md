@@ -7,6 +7,8 @@ Link: https://github.com/JayTrimbake/jaybanner.git
 Then after go to the directory where you download my tool
 and run first requirement.py
 # Command
+git clone https://github.com/JayTrimbake/jaybanner.git
+
 python3 requirement.py
 
 python3 jaybanner.py
