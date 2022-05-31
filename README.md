@@ -38,4 +38,5 @@ $ python3 jaybanner.py
   <a href="https://www.youtube.com/channel/UCPcgqEH9d3Cx6l4RqYuF7LA" target="_blank"><img src="https://img.shields.io/badge/YT-JayTrimbake-red?style=for-the-badge&logo=youtube"></a>
   
 </p>
+<meta name="google-site-verification" content="mZnI6ZS61dr0tBYRfTtvqUDssroxJIyf7wvWC9WwsXc" />
 
